@@ -4,7 +4,7 @@ PROJECT :
 DATA SOURCE : 
   https://github.com/nychealth/coronavirus-data/blob/master/case-hosp-death.csv
   
-LINK FOR MORE PROJECT DETAILS: https://www.notion.so/COVID-Mavericks-8ee003a029024e4885be29dba98b6919
+
 
 SOFTWARE USED: 
   Anancoda, Jupyter Notebooks 6.0.1, Python -version 2.7, 3 
